@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "About"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Competitions"
+    url: "/#competitions"
+
+  - title: "Honors"
+    url: "/#honors"
+
+  - title: "Skills"
+    url: "/#skills"
+
+  - title: "Service"
+    url: "/#service"
